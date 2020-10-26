@@ -1,4 +1,10 @@
-### Hi there 👋
+### Gustavo Minotas 	😃 :smiley:
+[imagen](https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1875/https://computacioninteractiva.com/wp-content/uploads/2019/07/INVERTIR-EN-TECNOLOGIA.png)
+
+-**Estudios**
+1. Taller de Emprendimiento
+2. Curso de Sabre
+
 
 <!--
 **Gminotas68/Gminotas68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
