@@ -2,8 +2,9 @@
 [imagen](https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1875/https://computacioninteractiva.com/wp-content/uploads/2019/07/INVERTIR-EN-TECNOLOGIA.png)
 
 -**Estudios**
-1. Taller de Emprendimiento
-2. Curso de Sabre
+1. Preparación Básica Geek
+2. Taller de Emprendimiento
+3. Curso de Sabre
 
 
 <!--
